@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=HasQuarterState
+comment1.params=gumballMachine
+comment1.target=HasQuarterState(GumballMachine1)
+comment2.params=
+comment2.target=void\ insertQuarter()
+comment3.params=coin
+comment3.target=void\ insertCoin(int)
+comment4.params=
+comment4.target=void\ ejectQuarter()
+comment5.params=
+comment5.target=void\ ejectCoin()
+comment6.params=
+comment6.target=void\ turnCrank()
+comment7.params=
+comment7.target=void\ dispense()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
