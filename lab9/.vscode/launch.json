@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesterWithLambda",
+            "request": "launch",
+            "mainClass": "TesterWithLambda"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesterWithLambda",
+            "request": "launch",
+            "mainClass": "decorator.TesterWithLambda"
+        }
+    ]
+}
